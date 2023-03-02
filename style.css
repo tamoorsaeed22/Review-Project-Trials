@@ -1,0 +1,21 @@
+body{
+    background: #EEEEEE;
+    text-align: center;
+}
+#img-div{
+    background: white;
+}
+#list{
+    width: 50%;
+    text-align: center;
+    margin-left: 30%;
+}
+ul li{
+    text-align: justify;
+    padding: 10px;
+    letter-spacing: 2px;
+}
+#list #italic{
+    font-style: italic;
+    text-align: start;
+}
